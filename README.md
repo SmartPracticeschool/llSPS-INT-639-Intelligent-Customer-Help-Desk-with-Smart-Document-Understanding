@@ -1,7 +1,7 @@
 # IISPS-INT-639-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
 
-Category: Artificial Intelligence
+Category: Machine Learning
 
 Skills Required: JavaScript, IBM Cloud,IBM Watson
 
